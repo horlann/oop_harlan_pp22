@@ -1,0 +1,15 @@
+/Users/admin/univer/sharplabi/oop_labs/oop_labs/bin/Debug/net6.0/oop_labs
+/Users/admin/univer/sharplabi/oop_labs/oop_labs/bin/Debug/net6.0/oop_labs.deps.json
+/Users/admin/univer/sharplabi/oop_labs/oop_labs/bin/Debug/net6.0/oop_labs.runtimeconfig.json
+/Users/admin/univer/sharplabi/oop_labs/oop_labs/bin/Debug/net6.0/oop_labs.dll
+/Users/admin/univer/sharplabi/oop_labs/oop_labs/bin/Debug/net6.0/oop_labs.pdb
+/Users/admin/univer/sharplabi/oop_labs/oop_labs/obj/Debug/net6.0/oop_labs.csproj.AssemblyReference.cache
+/Users/admin/univer/sharplabi/oop_labs/oop_labs/obj/Debug/net6.0/oop_labs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/univer/sharplabi/oop_labs/oop_labs/obj/Debug/net6.0/oop_labs.AssemblyInfoInputs.cache
+/Users/admin/univer/sharplabi/oop_labs/oop_labs/obj/Debug/net6.0/oop_labs.AssemblyInfo.cs
+/Users/admin/univer/sharplabi/oop_labs/oop_labs/obj/Debug/net6.0/oop_labs.csproj.CoreCompileInputs.cache
+/Users/admin/univer/sharplabi/oop_labs/oop_labs/obj/Debug/net6.0/oop_labs.dll
+/Users/admin/univer/sharplabi/oop_labs/oop_labs/obj/Debug/net6.0/refint/oop_labs.dll
+/Users/admin/univer/sharplabi/oop_labs/oop_labs/obj/Debug/net6.0/oop_labs.pdb
+/Users/admin/univer/sharplabi/oop_labs/oop_labs/obj/Debug/net6.0/oop_labs.genruntimeconfig.cache
+/Users/admin/univer/sharplabi/oop_labs/oop_labs/obj/Debug/net6.0/ref/oop_labs.dll
