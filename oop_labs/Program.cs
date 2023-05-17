@@ -113,12 +113,15 @@ switch (labNumber)
 
                 break;
         }
-        /////
-        ///
+      
 
         break;
     case 3:
         Lab7 lab7 = new Lab7();
+        break;
+    case 4:
+        Lab8 lab8 = new Lab8();
+        lab8.Execute();
         break;
 }
 
